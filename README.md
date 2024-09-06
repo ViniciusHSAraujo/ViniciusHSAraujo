@@ -1,55 +1,70 @@
-# :octocat: Vinícius H. S. Araújo
+# 👨🏻‍💻 Vinícius H. S. Araújo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ViniciusHSAraujo/)](https://www.linkedin.com/in/ViniciusHSAraujo/)
 
-## Opaa, seja bem vindo ao meu GitHub!!  👋
+## Olá, seja bem-vindo ao meu GitHub! 👋
 
-Meu nome é Vinícius, moro em São José dos Pinhais/PR e sou um desenvolvedor .NET que está sempre buscando aprimorar os meus conhecimentos técnicos por meio de projetos no dia a dia, onde tenho me tornado a cada dia um programador melhor.
+Sou Vinícius, desenvolvedor .NET com foco no setor financeiro e mercado de capitais. Resido em São José dos Pinhais/PR e estou sempre em busca de novos desafios para aprimorar minhas habilidades técnicas. Minha paixão por tecnologia me leva a desenvolver projetos constantes que impulsionam meu crescimento profissional e me mantêm atualizado com as melhores práticas do mercado.
 
-- 👨🏻‍💻 Atuo como Desenvolvedor .NET Pleno na **GFT**.
-- 👨🏻‍🎓 Sou graduado em **Análise e Desenvolvimento de Sistemas**, na **Universidade Positivo**.
-- 👨🏻‍🎓 Tenho especialização em **Cloud Computing**, no **SENAC**.
+- 👨🏻‍💻 Desenvolvedor .NET Pleno na **GFT**.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Positivo**.
+- 🎓 Especialista em **Cloud Computing** pelo **SENAC**.
+- 🎓 Pós-graduado em **Engenharia de Software** pela **UniAmérica**.
 
-### Projetos em andamento:
+---
 
-<details>
-  <summary><b>🍓 PlantioSmart</b></summary>
-  <p>Sistema que desenvolvi para gerenciamento de propriedades agrícolas, com gerenciamento de plantios, colheitas, irrigação, adubação e todo o fluxo de cultivo.</p>
-  <p><b>Tecnologias: C#, .NET 7, Blazor WASM, JWT </b></p>
-</details>
-
-
-### Projetos relevantes que desenvolvi:
+### 🚀🏆 Projetos relevantes:
 
 <details>
-  <summary><b>📈 CryptoAlerts</b></summary>
-  <p>BOT de análise gráfica que foi utilizado por mais de 100 pessoas de um grupo fechado de assessoria em criptoativos, e depois disponibilizado ao público onde foi utilizado por mais de 300 pessoas. Monitorava mais de 150 ativos a cada 1 minuto.</p>
-    <p><b>Tecnologias: C#, .NET 5 </b></p>
+  <summary><b>🍓 SmartMorangos - <em>Projeto Ativo</em></b></summary>
+  <p>O Smart Morangos é uma aplicação desenvolvida para ajudar produtores a otimizar e monitorar operações de plantio, cultivo e colheita de morangos e outras culturas. Focada em simplificar o planejamento e controle dessas atividades, a ferramenta atua como um caderno de campo digital, ajudando os agricultores a tomar decisões mais rápidas e eficientes. A plataforma está em conformidade com a instrução normativa ANVISA-MAPA 02/2018.</p>
+  <p><b>Tecnologias: C#, .NET 8, SQL Server, Blazor WASM, JWT</b></p>
 </details>
 
 <details>
-  <summary><b>🚚 Uai Fidelidade</b></summary>
-  <p>Sistema que desenvolvi para um FoodTruck (Uai Dog CWB) que meu pai tinha para descomplicar o controle de comandas e fidelização de clientes.</p>
-    <p><b>Tecnologias: C#, .NET Core 3.1, Angular 8, JWT, Flutter </b></p>
+  <summary><b>📈 CryptoAlerts - <em>Projeto Descontinuado</em></b></summary>
+  <p>Um BOT de análise gráfica utilizado por mais de 100 pessoas em um grupo fechado de assessoria de criptoativos. Posteriormente, foi disponibilizado para o público e utilizado por mais de 300 pessoas. O sistema monitorava mais de 150 ativos a cada minuto, proporcionando análises em tempo real.</p>
+  <p><b>Tecnologias: C#, .NET 5</b></p>
 </details>
 
 <details>
-  <summary><b>🃏 Planning Poker BOT</b></summary>
-  <p>BOT de planning poker para Discord para ser utilizado por minha equipe e disponibilizei para outras equipes usarem gratuitamente também.</p>
-      <p><b>Tecnologias: C#, .NET Core 3.1 </b></p>
+  <summary><b>🚚 Uai Fidelidade - <em>Projeto Descontinuado</em></b></summary>
+  <p>Sistema desenvolvido para gerenciar comandas e programas de fidelidade para o FoodTruck Uai Dog CWB, simplificando a gestão e oferecendo uma experiência melhor aos clientes.</p>
+  <p><b>Tecnologias: C#, .NET Core 3.1, Angular 8, JWT, Flutter</b></p>
 </details>
 
-### Principais tecnologias:
-- C#
-- .NET (API, Services, Blazor)
-- AWS (Lambda, S3, SQS, SNS, API Gateaway, entre outros serviços)
-- SQL Server
-  
-### Tecnologias que ja atuei, mas não domino: 
+<details>
+  <summary><b>🃏 Planning Poker BOT - <em>Projeto Descontinuado</em></b></summary>
+  <p>BOT de planning poker para Discord, inicialmente desenvolvido para minha equipe, que depois foi disponibilizado para outras equipes utilizarem gratuitamente em seus processos de planejamento ágil.</p>
+  <p><b>Tecnologias: C#, .NET Core 3.1</b></p>
+</details>
+
+---
+
+### 🛠 Principais tecnologias:
+
+- C# / .NET (API, Desktop, Blazor)
+- Cloud: AWS (Lambda, S3, SQS, SNS, API Gateway, CloudFront, LightSail, entre outros)
+- Bancos de dados: SQL Server, MongoDB, Redis, MySQL
+- Testes Unitários: xUnit
+- Testes de Interface: Selenium
+- Testes de Carga: JMeter, K6
+- Versionamento: Git, GitHub, GitLab, BitBucket
+
+---
+
+### 📚 Tecnologias que já atuei, mas não domino totalmente:
+
 - Angular (Typescript)
 - Flutter (Dart)
 - Docker
+- Jenkins
 
-### 💭 Não sou melhor que ninguém, mas procuro ser melhor que eu mesmo a cada dia.
+---
 
-<b>Obs.: A maioria dos meus projetos são privados, me desculpe mas não tem muita coisa recente pra ver aqui</b>
+### 💡 Filosofia:
+"A cada dia, procuro ser uma versão melhor de mim mesmo."
+
+---
+
+> **Nota:** A maioria dos meus projetos são privados, mas fique à vontade para me contatar pelo LinkedIn ou por aqui para saber mais!
