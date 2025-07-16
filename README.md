@@ -6,7 +6,7 @@
 
 Sou Vinícius, desenvolvedor .NET com foco no setor financeiro e mercado de capitais. Resido em São José dos Pinhais/PR e estou sempre em busca de novos desafios para aprimorar minhas habilidades técnicas. Minha paixão por tecnologia me leva a desenvolver projetos constantes que impulsionam meu crescimento profissional e me mantêm atualizado com as melhores práticas do mercado.
 
-- 👨🏻‍💻 Desenvolvedor .NET Pleno na **GFT**.
+- 👨🏻‍💻 Desenvolvedor .NET Sênior na **Beyond Soluções**.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Positivo**.
 - 🎓 Especialista em **Cloud Computing** pelo **SENAC**.
 - 🎓 Pós-graduado em **Engenharia de Software** pela **UniAmérica**.
@@ -45,7 +45,7 @@ Sou Vinícius, desenvolvedor .NET com foco no setor financeiro e mercado de capi
 
 - C# / .NET (API, Desktop, Blazor)
 - Cloud: AWS (Lambda, S3, SQS, SNS, API Gateway, CloudFront, LightSail, entre outros)
-- Bancos de dados: SQL Server, MongoDB, Redis, MySQL
+- Bancos de dados: SQL Server, PostgreSQL, MongoDB, Redis, MySQL
 - Testes Unitários: xUnit
 - Testes de Interface: Selenium
 - Testes de Carga: JMeter, K6
